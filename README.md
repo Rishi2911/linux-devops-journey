@@ -97,6 +97,6 @@ Hello, I am running as a script!
 👋 Hi, I’m **Rushikesh Dhumal**  
 – 3rd-year **CSE student**, Cloud & DevOps enthusiast.  
 
-🌐 [LinkedIn]([www.linkedin.com/in/rushikesh-dhumal-613309246/)  
+🌐 [LinkedIn](www.linkedin.com/in/rushikesh-dhumal-613309246/)  
 🐙 [GitHub](https://github.com/Rishi2911)  
 📝 Documenting my **DevOps + Cloud Journey** publicly. 
