@@ -52,8 +52,16 @@ cp hello.txt copy.txt
 
 # Rename/Move the file
 mv copy.txt moved.txt
+```
+#### 📘 What I Learned  
 
-# List files with details
-ls -l
+- `pwd` → Print current directory  
+- `ls` & `ls -l` → List files with permissions/owners/sizes  
+- `touch` → Create empty files  
+- `echo >` → Write into files  
+- `cp` → Copy files  
+- `mv` → Move/rename files  
+
+
 
 
