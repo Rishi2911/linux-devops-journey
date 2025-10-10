@@ -1,7 +1,7 @@
 # linux-devops-journey
 "Hands-on linux practice repo documenting my learn in public journey into devops and cloud computiing."
 # 🐧 Linux Practice – Day 1  
-> My first step in mastering Linux for **DevOps + Cloud Computing** 🚀  
+> My first step in mastering Linux for **DevOps + Cloud Computing** 🚀 
 
 ![Linux Banner](https://img.shields.io/badge/Linux-DevOps-blue?style=for-the-badge&logo=linux&logoColor=white)  
 ![Status](https://img.shields.io/badge/Status-Completed-green?style=flat-square)  
